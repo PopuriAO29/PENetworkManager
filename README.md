@@ -7,7 +7,7 @@ When I first saw about Holger's PE Network Manager site, I immediately saw that 
 Holger later announced in February 22, 2020 says that no new version last year, he also trying to port (again) PENM to C++. Either way, he also provided AU3 source.
 
 ## UPDATE for 2025-12-23
-Holger announced that PE Network Manager 0.59 Beta 13 is upcoming, quoted this:
+On December 23, 2025, Holger announced that PE Network Manager 0.59 Beta 13 is upcoming, quoted this:
 > I'm working again on some stuff for PENM (Beta 13), some error fixing, extended icons for different resolutions and for a *like' dark color scheme.
 > These icons were finished some years ago but never published.I'm also trying some things with importing network settings to an ini profile.
 > I will be back again in a few days/weeks.
